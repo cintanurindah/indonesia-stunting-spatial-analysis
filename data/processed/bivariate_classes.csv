@@ -1,0 +1,516 @@
+WADMKK,WADMPR,stunt_t,gap_t,bi_class
+Aceh Barat,Aceh,3,3,3-3
+Aceh Barat Daya,Aceh,3,1,3-1
+Aceh Besar,Aceh,3,2,3-2
+Aceh Jaya,Aceh,3,3,3-3
+Aceh Selatan,Aceh,3,3,3-3
+Aceh Singkil,Aceh,3,2,3-2
+Aceh Tamiang,Aceh,3,2,3-2
+Aceh Tengah,Aceh,3,3,3-3
+Aceh Tenggara,Aceh,3,3,3-3
+Aceh Timur,Aceh,3,3,3-3
+Aceh Utara,Aceh,2,2,2-2
+Adm. Kep. Seribu,DKI Jakarta,1,1,1-1
+Agam,Sumatera Barat,3,2,3-2
+Alor,Nusa Tenggara Timur,3,3,3-3
+Asahan,Sumatera Utara,1,3,1-3
+Asmat,Papua Selatan,3,3,3-3
+Badung,Bali,1,1,1-1
+Balangan,Kalimantan Selatan,1,1,1-1
+Bandung,Jawa Barat,2,1,2-1
+Bandung Barat,Jawa Barat,3,1,3-1
+Banggai,Sulawesi Tengah,3,3,3-3
+Banggai Kepulauan,Sulawesi Tengah,3,3,3-3
+Banggai Laut,Sulawesi Tengah,3,2,3-2
+Bangka,Kepulauan Bangka Belitung,2,3,2-3
+Bangka Barat,Kepulauan Bangka Belitung,2,3,2-3
+Bangka Selatan,Kepulauan Bangka Belitung,2,2,2-2
+Bangka Tengah,Kepulauan Bangka Belitung,2,3,2-3
+Bangkalan,Jawa Timur,1,2,1-2
+Bangli,Bali,1,2,1-2
+Banjar,Kalimantan Selatan,3,2,3-2
+Banjarnegara,Jawa Tengah,2,2,2-2
+Bantaeng,Sulawesi Selatan,2,1,2-1
+Bantul,Daerah Istimewa Yogyakarta,1,1,1-1
+Banyuasin,Sumatera Selatan,1,3,1-3
+Banyumas,Jawa Tengah,2,1,2-1
+Banyuwangi,Jawa Timur,1,1,1-1
+Barito Kuala,Kalimantan Selatan,1,2,1-2
+Barito Selatan,Kalimantan Tengah,3,2,3-2
+Barito Timur,Kalimantan Tengah,2,1,2-1
+Barito Utara,Kalimantan Tengah,2,2,2-2
+Barru,Sulawesi Selatan,3,1,3-1
+Batang,Jawa Tengah,2,2,2-2
+Batanghari,Jambi,1,2,1-2
+Batu Bara,Sumatera Utara,2,2,2-2
+Bekasi,Jawa Barat,1,1,1-1
+Belitung,Kepulauan Bangka Belitung,1,2,1-2
+Belitung Timur,Kepulauan Bangka Belitung,1,3,1-3
+Belu,Nusa Tenggara Timur,3,1,3-1
+Bener Meriah,Aceh,3,2,3-2
+Bengkalis,Riau,1,2,1-2
+Bengkayang,Kalimantan Barat,2,2,2-2
+Bengkulu Selatan,Bengkulu,1,2,1-2
+Bengkulu Tengah,Bengkulu,2,2,2-2
+Bengkulu Utara,Bengkulu,2,2,2-2
+Berau,Kalimantan Timur,2,3,2-3
+Biak Numfor,Papua,2,3,2-3
+Bima,Nusa Tenggara Barat,2,1,2-1
+Bintan,Kepulauan Riau,1,2,1-2
+Bireuen,Aceh,3,2,3-2
+Blitar,Jawa Timur,1,2,1-2
+Blora,Jawa Tengah,2,2,2-2
+Boalemo,Gorontalo,1,2,1-2
+Bogor,Jawa Barat,1,1,1-1
+Bojonegoro,Jawa Timur,1,1,1-1
+Bolaang Mongondow,Sulawesi Utara,2,2,2-2
+Bolaang Mongondow Selatan,Sulawesi Utara,2,1,2-1
+Bolaang Mongondow Timur,Sulawesi Utara,1,1,1-1
+Bolaang Mongondow Utara,Sulawesi Utara,3,2,3-2
+Bombana,Sulawesi Tenggara,2,3,2-3
+Bondowoso,Jawa Timur,1,2,1-2
+Bone,Sulawesi Selatan,3,2,3-2
+Bone Bolango,Gorontalo,2,1,2-1
+Boven Digoel,Papua Selatan,3,3,3-3
+Boyolali,Jawa Tengah,2,1,2-1
+Brebes,Jawa Tengah,2,2,2-2
+Buleleng,Bali,1,2,1-2
+Bulukumba,Sulawesi Selatan,2,2,2-2
+Bulungan,Kalimantan Utara,1,2,1-2
+Bungo,Jambi,2,2,2-2
+Buol,Sulawesi Tengah,3,3,3-3
+Buru,Maluku,3,3,3-3
+Buru Selatan,Maluku,3,2,3-2
+Buton,Sulawesi Tenggara,3,3,3-3
+Buton Selatan,Sulawesi Tenggara,3,1,3-1
+Buton Tengah,Sulawesi Tenggara,3,1,3-1
+Buton Utara,Sulawesi Tenggara,3,2,3-2
+Ciamis,Jawa Barat,2,1,2-1
+Cianjur,Jawa Barat,1,2,1-2
+Cilacap,Jawa Tengah,1,1,1-1
+Cirebon,Jawa Barat,1,1,1-1
+Dairi,Sumatera Utara,3,3,3-3
+Deiyai,Papua Tengah,3,3,3-3
+Deli Serdang,Sumatera Utara,2,2,2-2
+Demak,Jawa Tengah,1,1,1-1
+Dharmasraya,Sumatera Barat,2,3,2-3
+Dogiyai,Papua Tengah,3,3,3-3
+Dompu,Nusa Tenggara Barat,2,1,2-1
+Donggala,Sulawesi Tengah,3,3,3-3
+Empat Lawang,Sumatera Selatan,3,3,3-3
+Ende,Nusa Tenggara Timur,3,2,3-2
+Enrekang,Sulawesi Selatan,3,1,3-1
+Fak Fak,Papua Barat,2,2,2-2
+Flores Timur,Nusa Tenggara Timur,3,2,3-2
+Garut,Jawa Barat,1,1,1-1
+Gayo Lues,Aceh,2,3,2-3
+Gianyar,Bali,1,1,1-1
+Gorontalo,Gorontalo,3,2,3-2
+Gorontalo Utara,Gorontalo,3,3,3-3
+Gowa,Sulawesi Selatan,1,1,1-1
+Gresik,Jawa Timur,1,1,1-1
+Grobogan,Jawa Tengah,3,2,3-2
+Gunung Mas,Kalimantan Tengah,1,3,1-3
+Gunungkidul,Daerah Istimewa Yogyakarta,2,1,2-1
+Halmahera Barat,Maluku Utara,2,2,2-2
+Halmahera Selatan,Maluku Utara,3,3,3-3
+Halmahera Tengah,Maluku Utara,2,3,2-3
+Halmahera Timur,Maluku Utara,2,2,2-2
+Halmahera Utara,Maluku Utara,2,3,2-3
+Hulu Sungai Selatan,Kalimantan Selatan,2,1,2-1
+Hulu Sungai Tengah,Kalimantan Selatan,2,1,2-1
+Hulu Sungai Utara,Kalimantan Selatan,3,1,3-1
+Humbang Hasundutan,Sumatera Utara,1,3,1-3
+Indragiri Hilir,Riau,2,3,2-3
+Indragiri Hulu,Riau,2,3,2-3
+Indramayu,Jawa Barat,1,2,1-2
+Intan Jaya,Papua Tengah,3,3,3-3
+Jayapura,Papua,2,3,2-3
+Jayawijaya,Papua Pegunungan,3,2,3-2
+Jember,Jawa Timur,3,1,3-1
+Jembrana,Bali,1,3,1-3
+Jeneponto,Sulawesi Selatan,3,3,3-3
+Jepara,Jawa Tengah,1,1,1-1
+Jombang,Jawa Timur,1,1,1-1
+Kaimana,Papua Barat,2,3,2-3
+Kampar,Riau,1,2,1-2
+Kapuas,Kalimantan Tengah,2,2,2-2
+Kapuas Hulu,Kalimantan Barat,2,3,2-3
+Karanganyar,Jawa Tengah,1,1,1-1
+Karangasem,Bali,1,1,1-1
+Karawang,Jawa Barat,1,1,1-1
+Karimun,Kepulauan Riau,2,2,2-2
+Karo,Sumatera Utara,1,2,1-2
+Katingan,Kalimantan Tengah,2,3,2-3
+Kaur,Bengkulu,1,2,1-2
+Kayong Utara,Kalimantan Barat,2,2,2-2
+Kebumen,Jawa Tengah,1,2,1-2
+Kediri,Jawa Timur,1,1,1-1
+Keerom,Papua,2,3,2-3
+Kendal,Jawa Tengah,2,1,2-1
+Kep. Siau Tagulandang Biaro,Sulawesi Utara,2,3,2-3
+Kepahiang,Bengkulu,1,1,1-1
+Kepulauan Anambas,Kepulauan Riau,1,1,1-1
+Kepulauan Aru,Maluku,3,1,3-1
+Kepulauan Mentawai,Sumatera Barat,3,2,3-2
+Kepulauan Meranti,Riau,1,3,1-3
+Kepulauan Sangihe,Sulawesi Utara,2,1,2-1
+Kepulauan Selayar,Sulawesi Selatan,3,1,3-1
+Kepulauan Sula,Maluku Utara,2,3,2-3
+Kepulauan Talaud,Sulawesi Utara,1,1,1-1
+Kepulauan Tanimbar,Maluku,3,3,3-3
+Kepulauan Yapen,Papua,3,2,3-2
+Kerinci,Jambi,1,1,1-1
+Ketapang,Kalimantan Barat,1,3,1-3
+Klaten,Jawa Tengah,2,1,2-1
+Klungkung,Bali,1,1,1-1
+Kolaka,Sulawesi Tenggara,3,3,3-3
+Kolaka Timur,Sulawesi Tenggara,2,3,2-3
+Kolaka Utara,Sulawesi Tenggara,2,3,2-3
+Konawe,Sulawesi Tenggara,2,2,2-2
+Konawe Kepulauan,Sulawesi Tenggara,3,3,3-3
+Konawe Selatan,Sulawesi Tenggara,2,2,2-2
+Konawe Utara,Sulawesi Tenggara,3,3,3-3
+Kota Adm. Jakarta Barat,DKI Jakarta,1,1,1-1
+Kota Adm. Jakarta Pusat,DKI Jakarta,2,1,2-1
+Kota Adm. Jakarta Selatan,DKI Jakarta,1,1,1-1
+Kota Adm. Jakarta Timur,DKI Jakarta,1,1,1-1
+Kota Adm. Jakarta Utara,DKI Jakarta,2,1,2-1
+Kota Ambon,Maluku,2,1,2-1
+Kota Balikpapan,Kalimantan Timur,2,1,2-1
+Kota Banda Aceh,Aceh,2,1,2-1
+Kota Bandar Lampung,Lampung,1,1,1-1
+Kota Bandung,Jawa Barat,2,1,2-1
+Kota Banjar,Jawa Barat,1,1,1-1
+Kota Banjarbaru,Kalimantan Selatan,1,1,1-1
+Kota Banjarmasin,Kalimantan Selatan,3,1,3-1
+Kota Batam,Kepulauan Riau,1,1,1-1
+Kota Batu,Jawa Timur,2,1,2-1
+Kota Bau Bau,Sulawesi Tenggara,3,1,3-1
+Kota Bekasi,Jawa Barat,1,1,1-1
+Kota Bengkulu,Bengkulu,1,1,1-1
+Kota Bima,Nusa Tenggara Barat,3,1,3-1
+Kota Binjai,Sumatera Utara,3,3,3-3
+Kota Bitung,Sulawesi Utara,2,1,2-1
+Kota Blitar,Jawa Timur,1,1,1-1
+Kota Bogor,Jawa Barat,2,1,2-1
+Kota Bontang,Kalimantan Timur,2,1,2-1
+Kota Bukittinggi,Sumatera Barat,1,1,1-1
+Kota Cilegon,Banten,2,1,2-1
+Kota Cimahi,Jawa Barat,2,1,2-1
+Kota Cirebon,Jawa Barat,1,1,1-1
+Kota Denpasar,Bali,1,1,1-1
+Kota Depok,Jawa Barat,1,1,1-1
+Kota Dumai,Riau,1,2,1-2
+Kota Gorontalo,Gorontalo,3,1,3-1
+Kota Gunungsitoli,Sumatera Utara,1,1,1-1
+Kota Jambi,Jambi,1,1,1-1
+Kota Jayapura,Papua,2,3,2-3
+Kota Kediri,Jawa Timur,1,1,1-1
+Kota Kendari,Sulawesi Tenggara,2,1,2-1
+Kota Kotamobagu,Sulawesi Utara,2,3,2-3
+Kota Kupang,Nusa Tenggara Timur,3,1,3-1
+Kota Langsa,Aceh,1,3,1-3
+Kota Lhokseumawe,Aceh,2,3,2-3
+Kota Lubuk Linggau,Sumatera Selatan,2,1,2-1
+Kota Madiun,Jawa Timur,1,3,1-3
+Kota Magelang,Jawa Tengah,1,1,1-1
+Kota Makassar,Sulawesi Selatan,2,1,2-1
+Kota Malang,Jawa Timur,2,1,2-1
+Kota Manado,Sulawesi Utara,1,1,1-1
+Kota Mataram,Nusa Tenggara Barat,2,1,2-1
+Kota Medan,Sumatera Utara,1,1,1-1
+Kota Metro,Lampung,1,1,1-1
+Kota Mojokerto,Jawa Timur,1,1,1-1
+Kota Padang,Sumatera Barat,2,1,2-1
+Kota Padang Panjang,Sumatera Barat,2,1,2-1
+Kota Padang Sidempuan,Sumatera Utara,3,3,3-3
+Kota Pagar Alam,Sumatera Selatan,2,1,2-1
+Kota Palangkaraya,Kalimantan Tengah,2,2,2-2
+Kota Palembang,Sumatera Selatan,1,1,1-1
+Kota Palopo,Sulawesi Selatan,2,2,2-2
+Kota Palu,Sulawesi Tengah,3,1,3-1
+Kota Pangkal Pinang,Kepulauan Bangka Belitung,1,1,1-1
+Kota Parepare,Sulawesi Selatan,3,1,3-1
+Kota Pariaman,Sumatera Barat,1,3,1-3
+Kota Pasuruan,Jawa Timur,1,1,1-1
+Kota Payakumbuh,Sumatera Barat,1,1,1-1
+Kota Pekalongan,Jawa Tengah,2,3,2-3
+Kota Pekanbaru,Riau,1,1,1-1
+Kota Pematangsiantar,Sumatera Utara,1,3,1-3
+Kota Pontianak,Kalimantan Barat,2,1,2-1
+Kota Prabumulih,Sumatera Selatan,1,2,1-2
+Kota Probolinggo,Jawa Timur,2,3,2-3
+Kota Sabang,Aceh,2,1,2-1
+Kota Salatiga,Jawa Tengah,1,1,1-1
+Kota Samarinda,Kalimantan Timur,2,1,2-1
+Kota Sawahlunto,Sumatera Barat,2,1,2-1
+Kota Semarang,Jawa Tengah,1,1,1-1
+Kota Serang,Banten,2,2,2-2
+Kota Sibolga,Sumatera Utara,1,3,1-3
+Kota Singkawang,Kalimantan Barat,2,1,2-1
+Kota Solok,Sumatera Barat,1,3,1-3
+Kota Sorong,Papua Barat Daya,3,1,3-1
+Kota Subulussalam,Aceh,3,2,3-2
+Kota Sukabumi,Jawa Barat,2,1,2-1
+Kota Sungai Penuh,Jambi,1,1,1-1
+Kota Surabaya,Jawa Timur,1,1,1-1
+Kota Surakarta,Jawa Tengah,1,1,1-1
+Kota Tangerang,Banten,1,1,1-1
+Kota Tangerang Selatan,Banten,1,1,1-1
+Kota Tanjung Balai,Sumatera Utara,1,3,1-3
+Kota Tanjung Pinang,Kepulauan Riau,1,1,1-1
+Kota Tarakan,Kalimantan Utara,1,1,1-1
+Kota Tasikmalaya,Jawa Barat,2,3,2-3
+Kota Tebing Tinggi,Sumatera Utara,1,3,1-3
+Kota Tegal,Jawa Tengah,1,3,1-3
+Kota Ternate,Maluku Utara,1,1,1-1
+Kota Tidore Kepulauan,Maluku Utara,1,2,1-2
+Kota Tomohon,Sulawesi Utara,1,1,1-1
+Kota Tual,Maluku,2,1,2-1
+Kota Yogyakarta,Daerah Istimewa Yogyakarta,1,1,1-1
+Kotabaru,Kalimantan Selatan,2,2,2-2
+Kotawaringin Barat,Kalimantan Tengah,1,3,1-3
+Kotawaringin Timur,Kalimantan Tengah,2,3,2-3
+Kuantan Singingi,Riau,2,2,2-2
+Kubu Raya,Kalimantan Barat,3,3,3-3
+Kudus,Jawa Tengah,1,1,1-1
+Kulon Progo,Daerah Istimewa Yogyakarta,1,1,1-1
+Kuningan,Jawa Barat,2,2,2-2
+Kupang,Nusa Tenggara Timur,3,2,3-2
+Kutai Barat,Kalimantan Timur,3,2,3-2
+Kutai Kartanegara,Kalimantan Timur,1,2,1-2
+Kutai Timur,Kalimantan Timur,3,2,3-2
+Labuhanbatu,Sumatera Utara,3,3,3-3
+Labuhanbatu Selatan,Sumatera Utara,2,3,2-3
+Labuhanbatu Utara,Sumatera Utara,1,3,1-3
+Lahat,Sumatera Selatan,1,3,1-3
+Lamandau,Kalimantan Tengah,1,2,1-2
+Lamongan,Jawa Timur,1,1,1-1
+Lampung Barat,Lampung,2,2,2-2
+Lampung Selatan,Lampung,1,2,1-2
+Lampung Tengah,Lampung,1,2,1-2
+Lampung Timur,Lampung,1,2,1-2
+Lampung Utara,Lampung,2,2,2-2
+Landak,Kalimantan Barat,3,3,3-3
+Langkat,Sumatera Utara,1,3,1-3
+Lanny Jaya,Papua Pegunungan,3,3,3-3
+Lebak,Banten,3,2,3-2
+Lebong,Bengkulu,2,2,2-2
+Lembata,Nusa Tenggara Timur,3,2,3-2
+Lima Puluh Kota,Sumatera Barat,3,3,3-3
+Lingga,Kepulauan Riau,2,3,2-3
+Lombok Barat,Nusa Tenggara Barat,3,1,3-1
+Lombok Tengah,Nusa Tenggara Barat,2,1,2-1
+Lombok Timur,Nusa Tenggara Barat,3,1,3-1
+Lombok Utara,Nusa Tenggara Barat,3,1,3-1
+Lumajang,Jawa Timur,2,1,2-1
+Luwu,Sulawesi Selatan,2,2,2-2
+Luwu Timur,Sulawesi Selatan,2,3,2-3
+Luwu Utara,Sulawesi Selatan,2,2,2-2
+Madiun,Jawa Timur,1,1,1-1
+Magelang,Jawa Tengah,2,1,2-1
+Magetan,Jawa Timur,1,1,1-1
+Mahakam Ulu,Kalimantan Timur,2,3,2-3
+Majalengka,Jawa Barat,1,2,1-2
+Majene,Sulawesi Barat,3,3,3-3
+Malaka,Nusa Tenggara Timur,3,1,3-1
+Malang,Jawa Timur,2,2,2-2
+Malinau,Kalimantan Utara,3,3,3-3
+Maluku Barat Daya,Maluku,2,2,2-2
+Maluku Tengah,Maluku,3,3,3-3
+Maluku Tenggara,Maluku,3,2,3-2
+Mamasa,Sulawesi Barat,3,2,3-2
+Mamberamo Raya,Papua,3,3,3-3
+Mamberamo Tengah,Papua Pegunungan,3,3,3-3
+Mamuju,Sulawesi Barat,3,3,3-3
+Mamuju Tengah,Sulawesi Barat,3,2,3-2
+Mandailing Natal,Sumatera Utara,2,3,2-3
+Manggarai,Nusa Tenggara Timur,3,1,3-1
+Manggarai Barat,Nusa Tenggara Timur,3,2,3-2
+Manggarai Timur,Nusa Tenggara Timur,3,3,3-3
+Manokwari,Papua Barat,2,2,2-2
+Manokwari Selatan,Papua Barat,3,1,3-1
+Mappi,Papua Selatan,3,3,3-3
+Maros,Sulawesi Selatan,2,1,2-1
+Maybrat,Papua Barat Daya,3,3,3-3
+Melawi,Kalimantan Barat,3,3,3-3
+Mempawah,Kalimantan Barat,3,2,3-2
+Merangin,Jambi,1,2,1-2
+Merauke,Papua Selatan,1,3,1-3
+Mesuji,Lampung,1,3,1-3
+Mimika,Papua Tengah,3,3,3-3
+Minahasa,Sulawesi Utara,2,1,2-1
+Minahasa Selatan,Sulawesi Utara,3,2,3-2
+Minahasa Selatan/Bolaang Mongondwo Timur,Sulawesi Utara,3,3,3-3
+Minahasa Tenggara,Sulawesi Utara,2,3,2-3
+Minahasa Utara,Sulawesi Utara,1,1,1-1
+Mojokerto,Jawa Timur,1,1,1-1
+Morowali,Sulawesi Tengah,2,3,2-3
+Morowali Utara,Sulawesi Tengah,2,3,2-3
+Muara Enim,Sumatera Selatan,2,2,2-2
+Muaro Jambi,Jambi,1,2,1-2
+Muko Muko,Bengkulu,2,3,2-3
+Muna,Sulawesi Tenggara,2,2,2-2
+Muna Barat,Sulawesi Tenggara,3,2,3-2
+Murung Raya,Kalimantan Tengah,1,2,1-2
+Musi Banyuasin,Sumatera Selatan,1,3,1-3
+Musi Rawas,Sumatera Selatan,2,3,2-3
+Musi Rawas Utara,Sumatera Selatan,2,3,2-3
+Nabire,Papua Tengah,2,3,2-3
+Nagan Raya,Aceh,3,3,3-3
+Nagekeo,Nusa Tenggara Timur,2,3,2-3
+Natuna,Kepulauan Riau,1,2,1-2
+Nduga,Papua Pegunungan,3,3,3-3
+Ngada,Nusa Tenggara Timur,3,2,3-2
+Nganjuk,Jawa Timur,2,2,2-2
+Ngawi,Jawa Timur,1,1,1-1
+Nias,Sumatera Utara,3,2,3-2
+Nias Barat,Sumatera Utara,3,3,3-3
+Nias Selatan,Sumatera Utara,3,2,3-2
+Nias Utara,Sumatera Utara,3,2,3-2
+Nunukan,Kalimantan Utara,2,2,2-2
+Ogan Ilir,Sumatera Selatan,3,2,3-2
+Ogan Komering Ilir,Sumatera Selatan,2,3,2-3
+Ogan Komering Ulu,Sumatera Selatan,2,2,2-2
+Ogan Komering Ulu Selatan,Sumatera Selatan,1,3,1-3
+Ogan Komering Ulu Timur,Sumatera Selatan,1,3,1-3
+Pacitan,Jawa Timur,1,2,1-2
+Padang Lawas,Sumatera Utara,2,3,2-3
+Padang Lawas Utara,Sumatera Utara,3,3,3-3
+Padang Pariaman,Sumatera Barat,3,2,3-2
+Pakpak Bharat,Sumatera Utara,3,3,3-3
+Pamekasan,Jawa Timur,2,2,2-2
+Pandeglang,Banten,3,2,3-2
+Pangandaran,Jawa Barat,1,1,1-1
+Pangkajene Dan Kepulauan,Sulawesi Selatan,2,3,2-3
+Paniai,Papua Tengah,3,2,3-2
+Parigi Moutong,Sulawesi Tengah,2,3,2-3
+Pasaman,Sumatera Barat,3,2,3-2
+Pasaman Barat,Sumatera Barat,3,3,3-3
+Pasangkayu,Sulawesi Barat,3,3,3-3
+Paser,Kalimantan Timur,2,2,2-2
+Pasuruan,Jawa Timur,3,2,3-2
+Pati,Jawa Tengah,1,1,1-1
+Pegunungan Arfak,Papua Barat,3,3,3-3
+Pegunungan Bintang,Papua Pegunungan,3,3,3-3
+Pekalongan,Jawa Tengah,2,3,2-3
+Pelalawan,Riau,1,3,1-3
+Pemalang,Jawa Tengah,2,2,2-2
+Penajam Paser Utara,Kalimantan Timur,3,1,3-1
+Penukal Abab Lematang Ilir,Sumatera Selatan,2,3,2-3
+Pesawaran,Lampung,1,2,1-2
+Pesisir Barat,Lampung,2,3,2-3
+Pesisir Selatan,Sumatera Barat,3,2,3-2
+Pidie,Aceh,3,2,3-2
+Pidie Jaya,Aceh,3,3,3-3
+Pinrang,Sulawesi Selatan,2,2,2-2
+Pohuwato,Gorontalo,1,3,1-3
+Polewali Mandar,Sulawesi Barat,3,2,3-2
+Ponorogo,Jawa Timur,1,2,1-2
+Poso,Sulawesi Tengah,2,3,2-3
+Pringsewu,Lampung,2,2,2-2
+Probolinggo,Jawa Timur,3,3,3-3
+Pulang Pisau,Kalimantan Tengah,3,3,3-3
+Pulau Morotai,Maluku Utara,1,2,1-2
+Pulau Taliabu,Maluku Utara,2,3,2-3
+Puncak,Papua Tengah,3,3,3-3
+Puncak Jaya,Papua Tengah,3,3,3-3
+Purbalingga,Jawa Tengah,2,1,2-1
+Purwakarta,Jawa Barat,1,2,1-2
+Purworejo,Jawa Tengah,1,1,1-1
+Raja Ampat,Papua Barat Daya,3,3,3-3
+Rejang Lebong,Bengkulu,2,1,2-1
+Rembang,Jawa Tengah,1,2,1-2
+Rokan Hilir,Riau,2,3,2-3
+Rokan Hulu,Riau,2,3,2-3
+Rote Ndao,Nusa Tenggara Timur,3,2,3-2
+Sabu Raijua,Nusa Tenggara Timur,3,2,3-2
+Sambas,Kalimantan Barat,3,3,3-3
+Samosir,Sumatera Utara,3,3,3-3
+Sampang,Jawa Timur,1,1,1-1
+Sanggau,Kalimantan Barat,2,3,2-3
+Sarmi,Papua,3,3,3-3
+Sarolangun,Jambi,1,2,1-2
+Sekadau,Kalimantan Barat,1,2,1-2
+Seluma,Bengkulu,2,2,2-2
+Semarang,Jawa Tengah,1,1,1-1
+Seram Bagian Barat,Maluku,3,3,3-3
+Seram Bagian Timur,Maluku,3,3,3-3
+Serang,Banten,2,2,2-2
+Serdang Bedagai,Sumatera Utara,2,3,2-3
+Seruyan,Kalimantan Tengah,3,3,3-3
+Siak,Riau,1,2,1-2
+Sidenreng Rappang,Sulawesi Selatan,2,2,2-2
+Sidoarjo,Jawa Timur,1,1,1-1
+Sigi,Sulawesi Tengah,3,2,3-2
+Sijunjung,Sumatera Barat,3,2,3-2
+Sikka,Nusa Tenggara Timur,3,1,3-1
+Simalungun,Sumatera Utara,3,3,3-3
+Simeulue,Aceh,3,3,3-3
+Sinjai,Sulawesi Selatan,3,2,3-2
+Sintang,Kalimantan Barat,3,3,3-3
+Situbondo,Jawa Timur,1,1,1-1
+Sleman,Daerah Istimewa Yogyakarta,1,1,1-1
+Solok,Sumatera Barat,3,2,3-2
+Solok Selatan,Sumatera Barat,2,2,2-2
+Soppeng,Sulawesi Selatan,3,2,3-2
+Sorong,Papua Barat Daya,2,3,2-3
+Sorong Selatan,Papua Barat Daya,3,3,3-3
+Sragen,Jawa Tengah,1,1,1-1
+Subang,Jawa Barat,1,2,1-2
+Sukabumi,Jawa Barat,2,2,2-2
+Sukamara,Kalimantan Tengah,2,3,2-3
+Sukoharjo,Jawa Tengah,1,1,1-1
+Sumba Barat,Nusa Tenggara Timur,3,1,3-1
+Sumba Barat Daya,Nusa Tenggara Timur,3,2,3-2
+Sumba Tengah,Nusa Tenggara Timur,3,1,3-1
+Sumba Timur,Nusa Tenggara Timur,3,2,3-2
+Sumbawa,Nusa Tenggara Barat,3,2,3-2
+Sumbawa Barat,Nusa Tenggara Barat,1,2,1-2
+Sumedang,Jawa Barat,1,2,1-2
+Sumenep,Jawa Timur,1,2,1-2
+Supiori,Papua,3,3,3-3
+Tabalong,Kalimantan Selatan,2,2,2-2
+Tabanan,Bali,1,3,1-3
+Takalar,Sulawesi Selatan,2,1,2-1
+Tambrauw,Papua Barat Daya,3,3,3-3
+Tana Tidung,Kalimantan Utara,1,2,1-2
+Tana Toraja,Sulawesi Selatan,3,2,3-2
+Tanah Bumbu,Kalimantan Selatan,2,2,2-2
+Tanah Datar,Sumatera Barat,3,2,3-2
+Tanah Laut,Kalimantan Selatan,2,1,2-1
+Tangerang,Banten,2,1,2-1
+Tanggamus,Lampung,2,2,2-2
+Tanjung Jabung Barat,Jambi,1,2,1-2
+Tanjung Jabung Timur,Jambi,2,3,2-3
+Tapanuli Selatan,Sumatera Utara,1,3,1-3
+Tapanuli Tengah,Sumatera Utara,3,3,3-3
+Tapanuli Utara,Sumatera Utara,3,2,3-2
+Tapin,Kalimantan Selatan,1,1,1-1
+Tasikmalaya,Jawa Barat,1,1,1-1
+Tebo,Jambi,2,2,2-2
+Tegal,Jawa Tengah,1,1,1-1
+Teluk Bintuni,Papua Barat,2,3,2-3
+Teluk Wondama,Papua Barat,3,3,3-3
+Temanggung,Jawa Tengah,3,2,3-2
+Timor Tengah Selatan,Nusa Tenggara Timur,3,1,3-1
+Timor Tengah Utara,Nusa Tenggara Timur,3,2,3-2
+Toba,Sumatera Utara,3,3,3-3
+Tojo Una Una,Sulawesi Tengah,1,3,1-3
+Toli Toli,Sulawesi Tengah,3,3,3-3
+Tolikara,Papua Pegunungan,3,3,3-3
+Toraja Utara,Sulawesi Selatan,3,3,3-3
+Trenggalek,Jawa Timur,1,1,1-1
+Tuban,Jawa Timur,1,1,1-1
+Tulang Bawang,Lampung,1,2,1-2
+Tulang Bawang Barat,Lampung,1,2,1-2
+Tulungagung,Jawa Timur,1,2,1-2
+Wajo,Sulawesi Selatan,2,2,2-2
+Wakatobi,Sulawesi Tenggara,2,2,2-2
+Waropen,Papua,2,3,2-3
+Way Kanan,Lampung,1,3,1-3
+Wonogiri,Jawa Tengah,1,2,1-2
+Wonosobo,Jawa Tengah,2,2,2-2
+Yahukimo,Papua Pegunungan,3,3,3-3
+Yalimo,Papua Pegunungan,3,3,3-3
